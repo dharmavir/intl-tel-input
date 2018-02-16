@@ -1,4 +1,4 @@
-## Goal: Forked this library to replace Google libphonenumber (https://github.com/googlei18n/libphonenumber) with catamphetamine/libphonenumber-js (https://github.com/catamphetamine/libphonenumber-js). Later implementation is much simpler and should save 50% fat for dependencies.
+#### Goal: Forked this library to replace Google libphonenumber (https://github.com/googlei18n/libphonenumber) with catamphetamine/libphonenumber-js (https://github.com/catamphetamine/libphonenumber-js). Later implementation is much simpler and should save 50% fat for dependencies.
 
 # International Telephone Input [![Build Status](https://travis-ci.org/jackocnr/intl-tel-input.svg)](https://travis-ci.org/jackocnr/intl-tel-input)
 A jQuery plugin for entering and validating international telephone numbers. It adds a flag dropdown to any input, detects the user's country, displays a relevant placeholder and provides formatting/validation methods.
